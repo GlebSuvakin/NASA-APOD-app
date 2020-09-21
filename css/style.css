@@ -1,36 +1,3 @@
 *{
     box-sizing: border-box;
 }
-
-body{
-    padding-bottom: 10px;
-    background: #FFD5D5;
-    background-size: cover;
-    color: black;
-}
-
-.cosmo{
-    height: 96vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    
-}
-
-.description{
-    display: flex;
-    height: 90%;
-    width: 40%;
-}
-
-.nasa-pic{
-    display: flex;
-    height: 40%;
-    width: 40%;
-    border-radius: 25px;
-}
-
-.headline{
-    text-transform: uppercase;
-}
